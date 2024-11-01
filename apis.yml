@@ -1,0 +1,21 @@
+aid: change-log
+name: Change Log
+type: Common
+description: |-
+  This is a schema to help manage change across APIs, providing a simple schema that can be produced from any system being used to manage APIs, but then made interoperable as part of the API contract.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Change Log
+- Change
+created: '2024-09-13'
+modified: '2024-09-13'
+url: https://github.com/api-commons/change-logs/blob/main/apis.yml
+specificationVersion: '0.18'
+common:
+- type: JSONSchema
+  url: https://github.com/api-commons/change-logs/blob/main/change-log-schema.yml
+- type: Example
+  url: https://github.com/api-commons/change-logs/blob/main/change-log-example.yml  
+maintainers:
+- FN: API Commons
+  email: info@apievangelist.com

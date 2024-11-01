@@ -1,0 +1,23 @@
+---
+"$id": https://github.com/api-commons/change-log/blob/main/change-log-schema.yml
+"$schema": https://json-schema.org/draft/2020-12/schema
+title: Change Log
+type: object
+properties:
+  date:
+    type: string
+    description: The target date for the API change log item.
+  name:
+    type: string
+    description: The name for the API change log item.
+  image:
+    description: 
+    type: string The image for the API change log item.
+  link:
+    description: The link for the API change log item.
+    type: string  
+  tags:
+    description: The tags for the API change log item.
+    type: array
+    items:
+      type: string
