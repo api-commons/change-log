@@ -45,3 +45,13 @@ The change log is one of a growing set of API Commons building blocks that descr
 ## Support
 
 This work is in an early stage of development and is rapidly moving as it is applied across a variety of user interfaces and approaches to API operations and governance. If you would like to contribute, have any questions, or would like to inform the work happening, please submit a GitHub issue on this repository or email kin@apievangelist.com.
+
+## Part of API Commons
+
+A machine-readable building block from **[API Commons](https://apicommons.org)** — open specifications and schemas for the APIs you produce and consume. See all building blocks and tools at **[apicommons.org](https://apicommons.org)** and the tools at **[apicommons.org/tools](https://apicommons.org/tools/)**.
+
+**Related building blocks**
+- [road-map](https://github.com/api-commons/road-map) — a machine-readable way to publish an API's roadmap
+- [use-cases](https://github.com/api-commons/use-cases) — machine-readable API use-case building blocks
+- [plans](https://github.com/api-commons/plans) — machine-readable API access plans, tiers, and pricing
+- [guidance](https://github.com/api-commons/guidance) — the how-to layer that turns governance rules into help
